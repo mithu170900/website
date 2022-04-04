@@ -21,5 +21,5 @@ Bui, Minh Thu, Cornelis J. Potgieter, and Akihito Kamata. "Parameter Shrinkage E
 ### Thesis
 
 ### Contact Information
-:email: minhb-at-boston-dot-edu
+:mail: minhb-at-boston-dot-edu
 
