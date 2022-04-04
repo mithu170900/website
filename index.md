@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Minh Thu Bui
 
-You can use the [editor on GitHub](https://github.com/mithu170900/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hi there, welcome to my personal website. Here you can find information about my educational background, research interests, and publications. Please feel free to contact me at minhb@boston.edu if you have any questions.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About me
 
-### Markdown
+I am a first-year Ph.D. student in Statistics at Boston University. I am interested in statistical machine learning and Bayesian statistics. I know there is a lot to learn in statistics, and I am keeping an open mind to learn as much as I can and become a proficient researcher in the future.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Education
+:books: Ph.D. in Statistics, 2027
+    - Boston University
+:books: B.A. in Mathematics, 2022
+    - Texas Christian University
 
-```markdown
-Syntax highlighted code block
+### Preprints & Working Papers
+Bui, Minh Thu, Cornelis J. Potgieter, and Akihito Kamata. "Parameter Shrinkage Estimation of Reading Count Data Models." arXiv preprint arXiv:2109.14010 (2021). [PDF](https://arxiv.org/abs/2109.14010)
 
-# Header 1
-## Header 2
-### Header 3
+### Publications
 
-- Bulleted
-- List
+### Thesis
 
-1. Numbered
-2. List
+### Contact Information
+:email: minhb-at-boston-dot-edu
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mithu170900/website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
