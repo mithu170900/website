@@ -9,6 +9,7 @@ I am a first-year Ph.D. student in Statistics at Boston University. I am interes
 ### Education
 :books: Ph.D. in Statistics, 2027
     - Boston University
+    
 :books: B.A. in Mathematics, 2022
     - Texas Christian University
 
